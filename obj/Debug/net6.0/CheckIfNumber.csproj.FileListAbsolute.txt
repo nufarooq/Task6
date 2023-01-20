@@ -1,0 +1,15 @@
+D:\InductionTasks\CheckIfNumber\obj\Debug\net6.0\CheckIfNumber.csproj.AssemblyReference.cache
+D:\InductionTasks\CheckIfNumber\obj\Debug\net6.0\CheckIfNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\InductionTasks\CheckIfNumber\obj\Debug\net6.0\CheckIfNumber.AssemblyInfoInputs.cache
+D:\InductionTasks\CheckIfNumber\obj\Debug\net6.0\CheckIfNumber.AssemblyInfo.cs
+D:\InductionTasks\CheckIfNumber\obj\Debug\net6.0\CheckIfNumber.csproj.CoreCompileInputs.cache
+D:\InductionTasks\CheckIfNumber\bin\Debug\net6.0\CheckIfNumber.exe
+D:\InductionTasks\CheckIfNumber\bin\Debug\net6.0\CheckIfNumber.deps.json
+D:\InductionTasks\CheckIfNumber\bin\Debug\net6.0\CheckIfNumber.runtimeconfig.json
+D:\InductionTasks\CheckIfNumber\bin\Debug\net6.0\CheckIfNumber.dll
+D:\InductionTasks\CheckIfNumber\bin\Debug\net6.0\CheckIfNumber.pdb
+D:\InductionTasks\CheckIfNumber\obj\Debug\net6.0\CheckIfNumber.dll
+D:\InductionTasks\CheckIfNumber\obj\Debug\net6.0\refint\CheckIfNumber.dll
+D:\InductionTasks\CheckIfNumber\obj\Debug\net6.0\CheckIfNumber.pdb
+D:\InductionTasks\CheckIfNumber\obj\Debug\net6.0\CheckIfNumber.genruntimeconfig.cache
+D:\InductionTasks\CheckIfNumber\obj\Debug\net6.0\ref\CheckIfNumber.dll
